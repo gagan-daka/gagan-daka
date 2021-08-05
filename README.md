@@ -1,5 +1,6 @@
-<h1 >Heeeey 👋, </h1>
+<h1 >Heeeey 👋</h1>
 🌱- Web Developer
+🔱- Greek mythology lover ✌️
 <br/>
 <br/>
 <div>
