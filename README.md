@@ -1,4 +1,4 @@
-<h1 >Heeeey 👋</h1>
+<h1 >Heeeey 👋, 🚀</h1>
 🌱- Web Developer
 <br/>
 🔱- Greek mythology lover ✌️
@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-🚀
+
 
 
 
