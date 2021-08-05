@@ -13,7 +13,7 @@
   <br/>
 
 > Link
-[Go To Portafolio](https://portafoliogagandeep.netlify.app/index.html)
+[Go To Portafolio](https://portafoliogagandeep.netlify.app/index.html&target=blank)
 
 <br/>
 <br/>
