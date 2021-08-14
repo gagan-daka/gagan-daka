@@ -13,7 +13,8 @@
 
   <br/>
   <br/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gagan-daka)]
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-daka&show_icons=true&theme=chartreuse-dark)
 > Link
 [Go To Portafolio](https://portafoliogagandeep.netlify.app/index.html)
 
