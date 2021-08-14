@@ -15,7 +15,7 @@
   <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-daka&show_icons=true&theme=chartreuse-dark)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-daka&langs_count=3)]
+
 
 > Link
 [Go To Portafolio](https://portafoliogagandeep.netlify.app/index.html)
