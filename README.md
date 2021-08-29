@@ -21,6 +21,16 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-daka&show_icons=true&theme=chartreuse-dark)<br/>
 
+<div>
+  Skills:
+  ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![image]({BadgeURLHere})
+  ![image]({BadgeURLHere})
+  ![image]({BadgeURLHere})
+  ![image]({BadgeURLHere})
+  <br/>
+  <br/>
+</div>
 
 
 
