@@ -53,7 +53,6 @@ Design <br><br>
 <br><br>
 
 ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
-https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg?si=af5d555338564e38
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-daka&show_icons=true&theme=chartreuse-dark)<br/>
 
