@@ -1,5 +1,8 @@
 <h1 >Heeeey 👋, 🚀</h1>
 🌱- Web Developer
+
+🌱 I’m currently learning React js
+
 <br/>
 <br/>
 <div>
@@ -52,8 +55,6 @@ Design <br>
 
 <br><br>
 ![Gagandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagan-daka&show_icons=true&theme=chartreuse-dark)<br/>
-
-<br/>
 <br/>
 
 
