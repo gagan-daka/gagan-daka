@@ -1,8 +1,5 @@
 <h1 >Heeeey 👋, 🚀</h1>
 🌱- Web Developer
-
-🌱 I’m currently learning React js
-
 <br/>
 <br/>
 <div>
