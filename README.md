@@ -34,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-00C7B7?style=for-the-badge&logo=ajax&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-2C85C2?style=for-the-badge&logo=ajax&logoColor=white)
 
 IDE <br>
 ![Visual Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
