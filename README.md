@@ -1,5 +1,6 @@
 <h1 >Heeeey 👋</h1>
-🌱- Web Developer 🚀
+🌱 - Software Developer 🚀
+👨‍💻 - Currently i'm leraning 'Machine learning' ✌
 <br/>
 <br/>
 <div>
