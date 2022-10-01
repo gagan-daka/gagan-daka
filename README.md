@@ -1,5 +1,5 @@
 <h1 >Heeeey 👋</h1>
-🌱 - Software Developer 🚀 <br/>
+🚀 - Software Developer  <br/>
 👨‍💻 - Currently i'm leraning 'Machine learning' ✌
 <br/>
 <br/>
